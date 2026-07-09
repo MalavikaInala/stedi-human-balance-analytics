@@ -1,0 +1,1 @@
+select * from c where sharewithresearchasofdate is not null
